@@ -4,6 +4,7 @@ C# Tutorials
 ## Tutorials
 - [Microsoft Learn C#](https://dotnet.microsoft.com/en-us/learn/csharp)
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+- [Hello World - Introduction to C# interactive C# tutorial](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world?source=recommendations)
 
 ## Projects
 -[Note-Taking Application](https://github.com/CaptainChicky/Note-taking-App)
