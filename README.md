@@ -30,4 +30,4 @@ JDoodle:
 - JDoodle is another online compiler and editor which supports C# among various other languages. It's a simple and convenient platform for quick coding exercises. [LINK](https://www.jdoodle.com/compile-c-sharp-online/)
 ---
 ## Information
-- [C# Packages](https://www.nuget.org/)
+- [NuGet: C# Packages](https://www.nuget.org/)
