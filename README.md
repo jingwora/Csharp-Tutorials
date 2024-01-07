@@ -4,7 +4,12 @@ C# Tutorials
 ## Tutorials
 - [Microsoft Learn C#](https://dotnet.microsoft.com/en-us/learn/csharp)
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+
+  ---
 - [Hello World - Introduction to C# interactive C# tutorial](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world?source=recommendations)
+- [Manipulate integral and floating point numbers in C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp?source=recommendations)
+- [Learn conditional logic with branch and loop statements](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/branches-and-loops?source=recommendations)
+- [Learn to manage data collections using the generic list type](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/list-collection?source=recommendations)
 
 ## Projects
 -[Note-Taking Application](https://github.com/CaptainChicky/Note-taking-App)
