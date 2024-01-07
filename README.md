@@ -7,3 +7,4 @@ C# Tutorials
 
 ## Projects
 - [Online-Voting-System](https://github.com/srajat/Online-Voting-System)
+- [Hotel-Management-System](https://github.com/GayanGithub971012/Hotel-Management-System)
