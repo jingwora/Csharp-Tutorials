@@ -11,7 +11,7 @@
 - [Learn to manage data collections using the generic list type](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/list-collection?source=recommendations)
 
 ## Projects
--[Note-Taking Application](https://github.com/CaptainChicky/Note-taking-App)
+- [Note-Taking Application](https://github.com/CaptainChicky/Note-taking-App)
 - [Library Management System](https://github.com/Husna-POYRAZ/Library-Management-System)
 - [Hotel-Management-System](https://github.com/GayanGithub971012/Hotel-Management-System)
 - [Online-Voting-System](https://github.com/srajat/Online-Voting-System)
